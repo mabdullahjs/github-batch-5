@@ -1,0 +1,14 @@
+1- crediental manager pa jaka github remove krdena ha.
+2- Git ko computer ma install krlena ha.
+3- Github account banana haaa.
+4- cmd ma jaka 2 commands chalani haa. 
+
+"git config --global user.name "your_github_username"
+"git config --global user.email "your_github_email"
+
+
+---------------------------------------
+
+
+1- Absa folder github pa banaiga. means new repository banaigi.
+2- folder ko computer ma laana ka liya git clone "repo url"
